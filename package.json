@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "nodemon index.js --exec \"eslint index.js && node index.js\""
+    "serve": "nodemon index.js --exec \"eslint index.js && node\""
   },
   "author": "",
   "license": "MIT",
